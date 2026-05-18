@@ -80707,7 +80707,7 @@ A.mM("\u0420\u0435\u0436\u0438\u043c: "+m.a.c)
 A.mM("\u0414\u0430\u043d\u043d\u044b\u0435:")
 for(e=l,e=new A.dd(e,A.j(e).i("dd<1,2>")).ga4(0);e.u();){a1=e.d
 A.aqE("  "+a1.a+": "+A.k(a1.b))}A.mM("======================================")
-k=m.a.c==="full"?"http://https://heart-app-v2.onrender.com/predict":"http://https://heart-app-v2.onrender.com/predict_simple"
+k=m.a.c==="full"?"https://heart-app-v2.onrender.com/predict":"https://heart-app-v2.onrender.com/predict_simple"
 p=4
 e=A.hp(k)
 f=A.am(["Content-Type","application/json"],f,f)
